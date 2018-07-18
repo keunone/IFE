@@ -1,7 +1,5 @@
 ## Welcome to keunone's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/keunone/IFE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-百度前端技术学院题目练习
+IFE： 百度前端技术学院题目练习   
+css_learn：css学习  
